@@ -2,3 +2,4 @@ vendor
 *.DS_Store
 /challenge-js/node_modules
 .phpunit.result.cache
+.php-cs-fixer.cache
