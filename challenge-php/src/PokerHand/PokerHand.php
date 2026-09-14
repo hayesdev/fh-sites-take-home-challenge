@@ -1,7 +1,7 @@
 <?php
 
 /**
- * A poker hand ranker
+ * Ranks a five-card hand by computing three summaries, not ten checks.
  *
  * The ten hand ranks look like ten checks, but they aren't independent;
  * a straight flush satisfies three of them: flush/straight/straight flush
