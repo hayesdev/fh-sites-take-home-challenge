@@ -46,7 +46,7 @@ final class PokerHandTest extends TestCase
         $this->assertEquals('Flush', $hand->getRank());
     }
 
-    // Additional tests 
+    // Additional tests
 
     public static function hands(): array
     {
